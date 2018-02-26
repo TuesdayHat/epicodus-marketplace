@@ -1,0 +1,20 @@
+{
+  "name": "online-store",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ZEvans1 <zte.zachary@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
